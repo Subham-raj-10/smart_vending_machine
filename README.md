@@ -5,7 +5,7 @@ This project implements a **Finite State Machine (FSM)-based Smart Vending Machi
 
 ## Designed, simulated, and tested using **AMD Vivado Design Suite**.
 ## 🚀 Features
-### ✅ `smart_vending_machine.v`
+###  `smart_vending_machine.v`
 - 3 product options: ₹25, ₹50, ₹75
 - Compares inserted money with product price
 - Dispenses product if money is sufficient
